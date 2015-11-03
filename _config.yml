@@ -1,0 +1,23 @@
+name: Ash
+favicon: null
+layout_spectrum: 0.7929970785044134
+typography_spectrum: 0.6432888167910278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9588477376382798
+  lightness: 0.23234377126209438
+  saturation: 0.012030035490170121
+  rhythmicContrast: 0.8021365394815803
+purpose: []
