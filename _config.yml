@@ -1,6 +1,6 @@
 name: Ash
 favicon: null
-layout_spectrum: 0.7929970785044134
+layout_spectrum: 0.57674
 typography_spectrum: 0.6432888167910278
 title: Ash Digital
 cta:
@@ -16,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.9588477376382798
+  brandColors:
+    - '#000000'
+    - '#f7f5eb'
+    - '#c1c0bd'
+    - '#4d4d4d'
+    - '#859182'
+  brandStrength: 1
   lightness: 0.23234377126209438
   saturation: 0.012030035490170121
   rhythmicContrast: 0.8021365394815803
